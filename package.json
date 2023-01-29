@@ -1,0 +1,23 @@
+{
+  "name": "serveur-garage",
+  "version": "1.0.0",
+  "description": "Serveur garage",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TendryArivony/Serveur-garage.git"
+  },
+  "author": "Tendry- Fla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TendryArivony/Serveur-garage/issues"
+  },
+  "homepage": "https://github.com/TendryArivony/Serveur-garage#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
